@@ -1,3 +1,4 @@
 abcdef
 login
 logout
+register
